@@ -1,4 +1,4 @@
-const words = ["action", "act", "dog"];
+const words = ["action", "act", "dog", 'house'];
 
 const trie = Object.create(null);
 
